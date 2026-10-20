@@ -1,3 +1,4 @@
+
 # Pairspace
 
 A small real-time collaborative code editor built with React, TypeScript, Vite, Monaco, Yjs, and the `y-websocket` provider.
@@ -37,3 +38,7 @@ The build only compiles the frontend. The collaboration WebSocket server must al
 - There is no authentication, authorization, rate limiting, or private-room enforcement. Anyone with a room URL can join.
 - The included WebSocket server is for local development and experimentation, not production deployment as-is.
 - The language selector changes Monaco syntax highlighting; it does not provide execution or save functionality.
+
+# Real-time-collaborative-code-editor
+Developing a browser-based collaborative coding platform using React, TypeScript, Monaco Editor, Yjs, and WebSockets. Aims to enable shared coding rooms and real-time code synchronization between multiple users.
+ 529fba2eae318a58043bba8ac28f58ba783a4430
